@@ -22,7 +22,7 @@ import mx80aa_5, n9kaa_5
 """
 접속 정보 표시
 """
-username = ''   # juniper id/pw
+username = ''   # juniper ID/PW
 password = ''
 ipv4 = '192.168.0.32'
 port = 22
