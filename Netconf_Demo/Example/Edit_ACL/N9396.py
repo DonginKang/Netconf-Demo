@@ -5,8 +5,8 @@ import json
 Modify these please
 """
 url='http://192.168.0.31/ins'
-switchuser='admin'
-switchpassword='cisco!2345'
+switchuser='id'
+switchpassword='pass'
 
 myheaders={'content-type':'application/json'}
 payload={
