@@ -1,8 +1,8 @@
 from ncclient import manager
 
-username = 'juniper'
-password = 'jun2per'
-ipv4 = '192.168.0.32'
+username = 'id'
+password = 'pw'
+ipv4 = 'ip'
 port = 22
 
 
