@@ -4,8 +4,8 @@ def main():
 
     with manager.connect(host='192.168.0.78',
                          port=22,
-                         username='cisco',
-                         password='cisco',
+                         username='',
+                         password='',
                          hostkey_verify=False,
                          device_params={'name': 'csr'},
                          allow_agent=False,
