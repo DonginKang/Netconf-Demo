@@ -9,12 +9,12 @@ import sys
 # the variables below assume the user is requesting access to a
 # Nexus device running in VIRL in the  DevNet Always On Sandbox
 # use the IP address or hostname of your Nexus device
-HOST = '192.168.0.34'
+HOST = ''
 # use the NETCONF port for your Nexus device
 PORT = 22
 # use the user credentials for your Nexus device
-USER = 'admin'
-PASS = 'cisco!2345'
+USER = ''
+PASS = ''
 
 
 # create a main() method
