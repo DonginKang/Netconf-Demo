@@ -4,8 +4,8 @@ def main():
 
     with manager.connect(host='192.168.0.32',
                          port=22,
-                         username='juniper',
-                         password='jun2per',
+                         username='',
+                         password='',
                          hostkey_verify=False,
                          device_params={'name': 'default'},
                          allow_agent=False,
