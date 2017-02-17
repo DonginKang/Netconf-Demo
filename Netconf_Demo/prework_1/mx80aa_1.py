@@ -13,8 +13,8 @@ logger.setLevel(logging.DEBUG)
 """
 접속 정보 표시
 """
-username = 'juniper'
-password = 'jun2per'
+username = 'id'
+password = 'pass'
 ipv4 = '192.168.0.32'
 port = 22
 
