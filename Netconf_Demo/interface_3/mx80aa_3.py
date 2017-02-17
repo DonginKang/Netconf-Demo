@@ -3,8 +3,8 @@ from ncclient import manager
 from datetime import datetime
 
 
-username = 'juniper'
-password = 'jun2per'
+username = 'id'
+password = 'passwd'
 ipv4 = '192.168.0.32'
 port = 22
 
