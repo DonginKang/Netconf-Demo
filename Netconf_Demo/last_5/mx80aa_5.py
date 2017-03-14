@@ -5,8 +5,8 @@ from datetime import datetime
 """
 접속 정보 표시
 """
-username = 'juniper'
-password = 'jun2per'
+username = ''
+password = ''
 ipv4 = '192.168.0.32'
 port = 22
 
